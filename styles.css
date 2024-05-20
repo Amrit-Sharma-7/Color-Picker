@@ -1,0 +1,51 @@
+body {
+  background-color: #333;
+  color: rgb(236, 58, 81);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+  margin: 0; 
+}
+
+#canvas {
+  max-width: 90%;
+  height: auto; 
+  background-color: #a13232;
+  color: #000;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+#canvas > div {
+  width: 100px;
+  height: 100px;
+  margin: 10px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+#grey {
+  background-color: grey;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#yellow {
+  background-color: yellow;
+}
