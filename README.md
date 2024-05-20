@@ -16,7 +16,9 @@ A simple web application that allows users to change the background color of the
 
 ## Demo
 
-![Color Picker Screenshot](screenshot.png)
+Check out the live demo [here](https://amrit-sharma-7.github.io/Color-Picker/).
+
+![Color Picker Screenshot](Color-Picker-Demo.gif)
 
 ## Project Structure
 
